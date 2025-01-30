@@ -7,7 +7,6 @@ To create an automated data pipe-line using AWS servies(S3,Lambda,CloudWatch), W
 
 ![probstatement](https://github.com/user-attachments/assets/cf37c4b4-2a52-4954-a825-93f4bf9666df)
 
-
 Approach & Workflow Explanation
 
 1. CSV File Upload to S3 Bucket:
