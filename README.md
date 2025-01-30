@@ -4,7 +4,8 @@ In this repo lets take a dive into building short data pipe lines in AWS by usin
 Problem statment:
 To create an automated data pipe-line using AWS servies(S3,Lambda,CloudWatch), Where we need to create an automated data flow(trigger) when ever a file is uploaded in the S3 bucket and process the raw data for further insights and store them(results) to another S3 bucket.
 
-![Uploading image.png…]()
+
+![probstatement](https://github.com/user-attachments/assets/cf37c4b4-2a52-4954-a825-93f4bf9666df)
 
 
 Approach & Workflow Explanation
