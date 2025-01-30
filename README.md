@@ -24,6 +24,7 @@ The AWS Lambda function is the heart of this workflow. It performs the following
 Reads the CSV file from the S3 bucket.
 Processes the file's data (e.g., aggregating salary data for "India" and "US").
 Creates an output or result file containing the aggregated data.
+
 5. _Output Logs to CloudWatch:_
 The Lambda function logs important details such as the file processing status, errors (if any), and debug information to Amazon CloudWatch Logs. This makes it easier to monitor and troubleshoot the workflow.
 
